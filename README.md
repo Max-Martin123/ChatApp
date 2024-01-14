@@ -5,9 +5,9 @@ This is a simple chat application built using React, Node, Express, MongoDB, Soc
 Features
 Real-Time Messaging: Users can send and receive messages in real-time, providing a fast and responsive chatting experience.
 
-User Authentication: Secure user authentication ensures that only authorized users can access the chat functionality.
-
 Message History: The app stores message history, allowing users to scroll back and view past messages.
+
+<img width="643" alt="Screen Shot 2024-01-10 at 1 00 16 PM" src="https://github.com/Max-Martin123/ChatApp/assets/56135027/9d0f6331-37ab-4360-a7da-7fe96230a5fa">
 
 Getting Started
 Prerequisites
